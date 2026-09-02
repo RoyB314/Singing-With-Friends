@@ -64,6 +64,13 @@ a:focus-visible, button:focus-visible, input:focus-visible {
   margin: 0 0 2.5rem;
 }
 
+.piece-meta.subtitle {
+  font-family: "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+  font-size: 1.2rem;
+  color: var(--gold);
+  margin: 0 0 2.8rem;
+}
+
 .parts {
   border-top: 1px solid var(--line);
 }
