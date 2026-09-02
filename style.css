@@ -223,3 +223,9 @@ a:focus-visible, button:focus-visible, input:focus-visible {
 @media (max-width: 480px) {
   .track-grid { grid-template-columns: 1fr; }
 }
+.centered { text-align: center; }
+.title-line { display: block; }
+.group-label.large {
+  font-size: 1.3rem;
+  color: var(--gold);
+}
