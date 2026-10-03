@@ -229,3 +229,6 @@ a:focus-visible, button:focus-visible, input:focus-visible {
   font-size: 1.3rem;
   color: var(--gold);
 }
+.track-grid .group-label {
+  grid-column: 1 / -1;
+}
